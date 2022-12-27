@@ -7,7 +7,7 @@ MC68030の配線が必要なピンは下側にアンダーラインがありま�
 ![MEZ68030 PCB TOP](https://github.com/satoshiokue/MEZ68030/blob/main/MEZ68030_socket.jpg)
 
 0.1uF x2  
-47uF/16V  
+47uF/25V  
 
 ![MEZ68030 PCB TOP](https://github.com/satoshiokue/MEZ68030/blob/main/MEZ68030_top.jpg)  
 
