@@ -12,3 +12,8 @@ MC68030の配線が必要なピンは下側にアンダーラインがありま�
 ![MEZ68030 PCB TOP](https://github.com/satoshiokue/MEZ68030/blob/main/MEZ68030_top.jpg)  
 
 ![MEZ68030 PCB BOTTOM](https://github.com/satoshiokue/MEZ68030/blob/main/MEZ68030_bottom.jpg)  
+
+https://github.com/satoshiokue/EMUZ80-68030
+
+MEZ68030専用プリント基板 - オレンジピコショップ  
+https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-065.html
